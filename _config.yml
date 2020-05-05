@@ -2,7 +2,7 @@
 #   Main Configs   #
 # ---------------- #
 baseurl:
-url: https://mazhuang.org
+url: https://qichengjian.github.io
 date_format: "ordinal"
 title: 个人博客
 subtitle: "编程积累：基础，细节"
